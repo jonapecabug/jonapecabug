@@ -42,4 +42,9 @@
 <img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="40%">
 <img src="https://media0.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="40%">
 
-![Weekly Language Stats](https://raw.githubusercontent.com/jonapecabug/jonapecabug/main/img/wakatime_weekly_language_stats.svg "Weekly Language Stats")
+<details>
+  <summary><b>Learning stats:</b></summary>
+  
+  ![Weekly Language Stats](https://raw.githubusercontent.com/jonapecabug/jonapecabug/main/img/wakatime_weekly_language_stats.svg "Weekly Language Stats")
+  
+</details>
