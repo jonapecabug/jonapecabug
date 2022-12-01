@@ -18,10 +18,6 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/#gh-dark-mode-only)
 
-<img src="https://media0.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="40%">
-
-
-
 ## 💻 Languages and Tools:
 
 <p align="left"> <img alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" style="padding-right:10px;" /> 
@@ -41,5 +37,6 @@
 
 </p>
 
-<img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp">
+<img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="40%">
+<img src="https://media0.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="40%">
 
