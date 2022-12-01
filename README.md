@@ -45,7 +45,7 @@
 <details>
   <summary><b>Learning stats:</b></summary>
   
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   
 </details>
