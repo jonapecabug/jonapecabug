@@ -1,5 +1,5 @@
-## Hello~ I'm Jonape <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-**`🎨 Design`** | **`💻 Develop`** | **`🔭 Research`** | **`🧠 Learn`**
+## Hi! I'm Jonape, please call me Jona <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**`🎨 Design`** | **`💻 Develop`** | **`🔭 Research`** | **`🧠 Learn`**
 
 - 👀 I’m interested in learning how to code 💯 very very well
 - 💻 Presently learning ☕ **Python**, **Java** and **Javascript**
@@ -34,8 +34,6 @@
 <img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img alt="Expressjs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
 <img alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img alt="postgresql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 <img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
