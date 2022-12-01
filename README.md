@@ -4,9 +4,9 @@
 - 💻 Presently learning ☕ **Python**, **Java** and **Javascript**
 - ⚔️ Looking for a new adventure 🧙 ~~work~~
 - 👒 I love reading fantasy 📚novels and 🌼gardening
+- 🚀 you can reach me here: 
 
-## 📫 socials:
-[![website](./img/globe-light.svg)](https://jonapecabug.github.io#gh-light-mode-only)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![website](./img/globe-light.svg)](https://jonapecabug.github.io#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://jonapecabug.github.io#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/jonapecabug#gh-light-mode-only)
@@ -18,11 +18,13 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/#gh-dark-mode-only)
 
+<img src="https://media0.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="40%">
+
+
+
 ## 💻 Languages and Tools:
 
-<p align="left">
- 
-<img alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" style="padding-right:10px;" /> 
+<p align="left"> <img alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" style="padding-right:10px;" /> 
 <img alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" style="padding-right:10px;" /> 
 <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
