@@ -15,3 +15,8 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/jonapecabug#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/jonapecabug#gh-dark-mode-only)
+
+📊 &nbsp;**This week I spent my time on**
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=jonapecabug&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
+<details>
