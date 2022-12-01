@@ -45,6 +45,7 @@
 <details>
   <summary><b>Learning stats:</b></summary>
   
-  ![Weekly Language Stats](https://raw.githubusercontent.com/jonapecabug/jonapecabug/main/img/wakatime_weekly_language_stats.svg "Weekly Language Stats")
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
   
 </details>
