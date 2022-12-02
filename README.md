@@ -45,6 +45,8 @@
 <details>
   <summary><b>My Progress and Stats:</b></summary>
   
+[![wakatime](https://wakatime.com/badge/user/bf702283-75dd-45a4-9817-632adfce5c75.svg)](https://wakatime.com/@bf702283-75dd-45a4-9817-632adfce5c75)
+  
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
