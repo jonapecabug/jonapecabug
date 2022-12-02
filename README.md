@@ -1,5 +1,5 @@
 ## Hi! I'm Jonape, please call me Jona <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-**`🎨 Design`** | **`💻 Develop`** | **`🔭 Research`** | **`🧠 Learn`** 
+&nbsp;&nbsp;&nbsp;&nbsp;**`🎨 Design`** | **`💻 Develop`** | **`🔭 Research`** | **`🧠 Learn`** 
 
 - 👀 I’m interested in learning how to code 💯 very very well
 - 💻 Presently learning ☕ **Python**, **Java** and **Javascript**
@@ -19,7 +19,7 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/#gh-dark-mode-only)
 
-## 💻 Languages and Tools: [![wakatime](https://wakatime.com/badge/user/bf702283-75dd-45a4-9817-632adfce5c75.svg)](https://wakatime.com/@bf702283-75dd-45a4-9817-632adfce5c75)
+## 💻 Languages and Tools: 
 
 <p align="left"> <img alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" style="padding-right:10px;" /> 
 <img alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" style="padding-right:10px;" />
