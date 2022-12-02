@@ -1,5 +1,5 @@
 ## Hi! I'm Jonape, please call me Jona <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**`🎨 Design`** | **`💻 Develop`** | **`🔭 Research`** | **`🧠 Learn`**
+**`🎨 Design`** | **`💻 Develop`** | **`🔭 Research`** | **`🧠 Learn`** 
 
 - 👀 I’m interested in learning how to code 💯 very very well
 - 💻 Presently learning ☕ **Python**, **Java** and **Javascript**
@@ -19,7 +19,7 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/#gh-dark-mode-only)
 
-## 💻 Languages and Tools:
+## 💻 Languages and Tools: [![wakatime](https://wakatime.com/badge/user/bf702283-75dd-45a4-9817-632adfce5c75.svg)](https://wakatime.com/@bf702283-75dd-45a4-9817-632adfce5c75)
 
 <p align="left"> <img alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" style="padding-right:10px;" /> 
 <img alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" style="padding-right:10px;" />
@@ -42,13 +42,17 @@
 <img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="40%">
 <img src="https://media0.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="40%">
 
-<details>
-  <summary><b>My Progress and Stats:</b></summary>
-  
-[![wakatime](https://wakatime.com/badge/user/bf702283-75dd-45a4-9817-632adfce5c75.svg)](https://wakatime.com/@bf702283-75dd-45a4-9817-632adfce5c75)
-  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+## ☕ My Progress and Stats:
 
-  
-</details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jonapecabug&layout=compact&theme=github_dark&hide=VHDL,ROFF,CUDA&langs_count=6&card_width=445">
+  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonapecabug&layout=compact&hide=VHDL,ROFF,CUDA&langs_count=6&card_width=445">
+</picture>
+<br>
+<b>Last 7 days:</b>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=jonapecabug&layout=compact&theme=github_dark">
+  <img alt="Waka Tims" src="https://github-readme-stats.vercel.app/api/wakatime?username=jonapecabug&layout=compact">
+</picture>
+
