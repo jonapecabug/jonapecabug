@@ -1,24 +1,57 @@
-name: Waka Readme
-
+name: Metrics
 on:
-  schedule:
-    # Runs every 4 hours
-    - cron: '0 */4 * * *'
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 0 * * *"}]
+  # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
-
+  push: {branches: ["master", "main"]}
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      # See action.yml for all options
+      - uses: lowlighter/metrics@latest
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_EDITORS: "False"
-          SHOW_LANGUAGE_PER_REPO: "True"
-          SHOW_LOC_CHART: "False"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_SHORT_INFO: "False"
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # achievements https://github.com/lowlighter/metrics/blob/master/source/plugins/achievements/README.md
+          plugin_achievements: yes
+          plugin_achievements_threshold: B      # Display achievements with rank B or higher
+
+          # topic
+          #plugin_topics: yes
+          
+          # isocalendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year # Display full year instead of half year
+          
+          # languages
+          plugin_languages: yes
+          plugin_languages_ignored: VHDL, Roff                          # List of languages to ignore
+          #plugin_languages_skipped: my-test-repo                        # List of repositories to skip
+          plugin_languages_limit: 8                                     # Display up to 8 languages
+          plugin_languages_sections: most-used, recently-used           # Display most used and recently used
+          #plugin_languages_colors: "0:orange, javascript:#ff0000, ..."  # Make most used languages orange and JavaScript red
+          #plugin_languages_aliases: "JavaScript:JS, TypeScript:TS, ..." # Customize languages names with aliases
+          plugin_languages_details: bytes-size, percentage              # Additionally display total bytes size and percentage
+          plugin_languages_threshold: 1%                                # Hides all languages less than 2%
+          ## languages stats
+          plugin_languages_indepth: no                                  # Get indepth stats (see documentation before enabling)
+          plugin_languages_analysis_timeout: 15                         # Set maximum time for indepth analysis
+          plugin_languages_categories: programming                      # Display only languages that match these categories in most-used section
+          plugin_languages_recent_categories: markup, programming, data # Display only languages that match these categories in recently-used section
+          plugin_languages_recent_load: 500                             # Load up to 500 events to compute recently used stats
+          plugin_languages_recent_days: 7                               # Limit recently used stats to last week
+          #commits_authoring: octocat@users.noreply.github.com           # Surnames or email addresses used to identify your commits
+          
+          # habit https://github.com/lowlighter/metrics/blob/master/source/plugins/habits/README.md
+          #plugin_habits: yes
+          config_timezone: Asia/Shanghai # Set timezone
+          
+          # notable
+          plugin_notable: yes
+          plugin_notable_filter: stars:>500 # Only display repositories with 500 stars or more (syntax based on GitHub search query)
+          plugin_notable_from: organization # Only display contributions within organization repositories
+          plugin_notable_repositories: yes  # Display repositories name instead of only organization name
+          plugin_notable_indepth: yes       # Gather additional informations about contributions
