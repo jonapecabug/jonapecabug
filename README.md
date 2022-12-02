@@ -43,9 +43,10 @@
 <img src="https://media0.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="40%">
 
 <details>
-  <summary><b>Learning stats:</b></summary>
+  <summary><b>My Progress and Stats:</b></summary>
   
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
   
 </details>
