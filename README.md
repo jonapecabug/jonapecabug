@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in learning how to code 💯 very very well
 - 💻 Presently learning ☕ **Python**, **Java** and **Javascript**
-- ⚔️ Looking for a new adventure 🧙 ~~work~~
+- ⚔️ Looking for a new adventure 🧙
 - 👒 I love reading fantasy 📚novels and 🌼gardening
 - 🚀 you can reach me here: 
 
