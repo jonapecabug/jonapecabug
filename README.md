@@ -4,7 +4,8 @@
 - 👀 I’m interested in learning how to code 💯
 - 💻 Currently learning ☕ **Javascript | ReactJs | Angular | Nodejs | Express**
 - ⚔️ Looking for a new adventure 🧙
-- 👒 I love reading fantasy 📚novels and 🌼gardening
+- 👒 I love reading fantasy 📚novels, manga and 🌼gardening
+- 🐶 INTJ-A, bookworm, early-bird and dog-lover
 - 🚀 you can reach me here: 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![website](./img/globe-light.svg)](https://jonapecabug.github.io#gh-light-mode-only)
@@ -19,7 +20,7 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/#gh-dark-mode-only)
 
-## 💻 Languages and Tools: 
+## 💻 Leaning this Languages and Tools: 
 
 <p align="left"> <img alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" style="padding-right:10px;" /> 
 <img alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" style="padding-right:10px;" />
