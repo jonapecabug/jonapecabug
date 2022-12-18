@@ -13,7 +13,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ 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 }}
+          token: ${{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}}
           
           # achievements https://github.com/lowlighter/metrics/blob/master/source/plugins/achievements/README.md
           plugin_achievements: yes
