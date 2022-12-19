@@ -17,6 +17,7 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/#gh-dark-mode-only)
 
+
 ## 💻 Leaning this Languages and Tools: 
 
 <p align="left"> <img alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" style="padding-right:10px;" /> 
@@ -41,8 +42,8 @@
 
 ## ☕ My Progress and Stats:
 [<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/main/medias.svg">](#)
-[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/main/wakatime.svg">](#)
-[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/main/anilist.svg">](#)
+[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/main/wakatime.svg">](https://wakatime.com/@jonapecabug)
+[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/main/anilist.svg">](https://anilist.co/user/jonapecabug)
 <img align="left" width="390" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" >
 
 
