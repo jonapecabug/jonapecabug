@@ -40,11 +40,12 @@
 <img src="https://media0.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="40%">  -->
 
 ## ☕ My Progress and Stats:
-[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/main/medias.svg">](#)
-[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/main/wakatime.svg">](https://wakatime.com/@jonapecabug)
-[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/main/anilist.svg">](https://anilist.co/user/jonapecabug)
-<img align="left" width="390" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" >
-<img align="right" width="150" src="https://media.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" >
+[<img align="left" width="390" src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/main/medias.svg">](#)
+[<img align="right" width="390" src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/main/wakatime.svg">](https://wakatime.com/@jonapecabug)
+[<img align="right" width="390" src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/main/anilist.svg">](https://anilist.co/user/jonapecabug)
+<img align="right" width="90" src="https://media.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" >
+
+
 
 
 <!--
