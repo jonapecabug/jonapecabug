@@ -42,6 +42,7 @@
 <img src="https://media0.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="40%">  -->
 
 ## ☕ My Progress and Stats:
+[<img src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/76c523120bfdec22cf7ce1499dce344e4db0e1cc/medias.svg?p">](#)
 
 <!--
 <picture>
@@ -55,5 +56,4 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=jonapecabug&layout=compact&theme=github_dark">
   <img alt="Waka Tims" src="https://github-readme-stats.vercel.app/api/wakatime?username=jonapecabug&layout=compact">
 </picture> -->
-![Metrics](https://metrics.lecoq.io/jonapecabug?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&habits=1&anilist=1&wakatime=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true&habits.charts.type=chartist&habits.trim=true&habits.languages.limit=8&habits.languages.threshold=0%25&anilist=false&anilist.user=.user.login&anilist.medias=anime%2C%20manga&anilist.sections=favorites&anilist.limit=2&anilist.limit.characters=22&anilist.shuffle=false&wakatime=false&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=current&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.days=7&wakatime.limit=5&wakatime.languages.other=false&wakatime.repositories.visibility=all&config.timezone=Asia%2FManila&config.twemoji=true&config.octicon=true)
 
