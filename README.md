@@ -40,8 +40,11 @@
 <img src="https://media0.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="40%">  -->
 
 ## ☕ My Progress and Stats:
-[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/856e3a18d2782bff9ec944ed50b4e50c970a00c2/medias.svg">](#)
-[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/856e3a18d2782bff9ec944ed50b4e50c970a00c2/wakatime.svg?p">](#)[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/856e3a18d2782bff9ec944ed50b4e50c970a00c2/anilist.svg?p">](#)
+[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/main/medias.svg">](#)
+[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/main/wakatime.svg">](#)
+[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/main/anilist.svg">](#)
+<img align="left" width="390" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" >
+
 
 <!--
 <picture>
