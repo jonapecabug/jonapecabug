@@ -21,7 +21,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: jonapecabug
           template: classic
-          base: header
+          base: ""
           config_octicon: yes
           config_timezone: Asia/Manila
           plugin_habits: yes
@@ -33,8 +33,6 @@ jobs:
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
           plugin_habits_trim: yes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
@@ -55,6 +53,8 @@ jobs:
           user: jonapecabug
           template: classic
           base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
           plugin_wakatime: yes
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
