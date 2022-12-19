@@ -42,7 +42,8 @@
 <img src="https://media0.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="40%">  -->
 
 ## ☕ My Progress and Stats:
-[<img src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/76c523120bfdec22cf7ce1499dce344e4db0e1cc/medias.svg?p">](#)
+[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/856e3a18d2782bff9ec944ed50b4e50c970a00c2/medias.svg">](#)
+[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/856e3a18d2782bff9ec944ed50b4e50c970a00c2/wakatime.svg?p">](#)[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/856e3a18d2782bff9ec944ed50b4e50c970a00c2/anilist.svg?p">](#)
 
 <!--
 <picture>
