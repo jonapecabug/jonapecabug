@@ -1,7 +1,6 @@
 ## Hi! I'm Jonape, please call me Jona <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 &nbsp;&nbsp;&nbsp;&nbsp;**`🎨 Design`** | **`💻 Develop`** | **`🔭 Research`** | **`🧠 Learn`** 
 
-- 👀 I’m interested in learning how to code 💯
 - 🐶 INTJ-A, bookworm, early-bird and dog-lover
 - 🚀 you can reach me here: 
 
@@ -18,7 +17,7 @@
 [![website](./img/twitter-dark.svg)](https://twitter.com/#gh-dark-mode-only)
 
 
-## 💻 Leaning this Languages and Tools: 
+## 💻 Learning this Languages and Tools: 
 
 <p align="left"> <img alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" style="padding-right:10px;" /> 
 <img alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" style="padding-right:10px;" />
@@ -45,6 +44,7 @@
 [<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/main/wakatime.svg">](https://wakatime.com/@jonapecabug)
 [<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/main/anilist.svg">](https://anilist.co/user/jonapecabug)
 <img align="left" width="390" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" >
+<img align="right" width="150" src="https://media.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" >
 
 
 <!--
