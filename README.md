@@ -1,10 +1,9 @@
 ## Hi! I'm Jonape, please call me Jona <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-&nbsp;&nbsp;&nbsp;&nbsp;**`🎨 Design`** | **`💻 Develop`** | **`🔭 Research`** | **`🧠 Learn`** 
+**`🎨 Design`** | **`💻 Develop`** | **`🔭 Research`** | **`🧠 Learn`** 
 
-- 🐶 INTJ-A, bookworm, early-bird and dog-lover
-- 🚀 you can reach me here: 
+🐶 INTJ-A, bookworm, early-bird and dog-lover
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![website](./img/globe-light.svg)](https://jonapecabug.github.io#gh-light-mode-only)
+[![website](./img/globe-light.svg)](https://jonapecabug.github.io#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://jonapecabug.github.io#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/jonapecabug#gh-light-mode-only)
