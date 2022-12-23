@@ -1,7 +1,7 @@
 ## Hi! I'm Jonape, please call me Jona <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 **`🎨 Design`** | **`💻 Develop`** | **`🔭 Research`** | **`🧠 Learn`** 
 
-🐶 INTJ-A, bookworm, early-bird and dog-lover
+🐶 INTJ-A, bookworm, early-bird and dog-lover... Listen to Amazarashi 🎶
 
 [![website](./img/globe-light.svg)](https://jonapecabug.github.io#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://jonapecabug.github.io#gh-dark-mode-only)
