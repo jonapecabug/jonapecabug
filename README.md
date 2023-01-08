@@ -3,17 +3,17 @@
 
 🐶 INTJ-A, bookworm, early-bird, dog-lover... listens to J-Rock 🎶 
 
-<!-- [![website](./img/globe-light.svg)](https://jonapecabug.github.io#gh-light-mode-only)
+[![website](./img/globe-light.svg)](https://jonapecabug.github.io#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://jonapecabug.github.io#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/jonapecabug#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jonapecabug#gh-dark-mode-only)
-&nbsp;&nbsp; -->
-<!-- [![website](./img/instagram-light.svg)](https://www.instagram.com/jonapecabug#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/jonapecabug#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/#gh-dark-mode-only) -->
+[![website](./img/twitter-dark.svg)](https://twitter.com/#gh-dark-mode-only)
 
 
 ## 💻 Learning this Languages and Tools: 
