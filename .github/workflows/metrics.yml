@@ -1,0 +1,86 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 16 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    
+    
+      - name: Medias
+        uses: lowlighter/metrics@latest
+        with:
+          filename: medias.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: jonapecabug
+          template: classic
+          base: ""
+          config_octicon: yes
+          config_timezone: Asia/Manila
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: chartist
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
+          plugin_habits_trim: yes
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 400
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_threshold: 0%
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+          
+      - name: WakaTime
+        uses: lowlighter/metrics@latest
+        with:
+          filename: wakatime.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: jonapecabug
+          template: classic
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_wakatime: yes
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_repositories_visibility: all
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: current
+          
+      - name: AniList
+        uses: lowlighter/metrics@latest
+        with:
+          filename: anilist.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: jonapecabug
+          template: classic
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_limit: 2
+          plugin_anilist_limit_characters: 20
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, characters
+          plugin_anilist_shuffle: yes
+          plugin_anilist_user: .user.login
+          
+
