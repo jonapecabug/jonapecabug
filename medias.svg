@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="894" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="912" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .code,code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code{margin:0 4px -3px}code{display:inline-block}.ct-chart{display:flex;margin-left:-12px}.ct-chart-pie .ct-label{fill:rgba(255,255,255,.8)!important;color:rgba(255,255,255,.8)!important}.ct-line,.ct-point{stroke-width:2px!important;stroke:#58a6ff!important}.ct-point{stroke:#106cbc!important}.ct-area{fill:#58a6ff!important}.ct-label{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important}.ct-label.ct-horizontal{text-anchor:middle!important}.ct-grid{stroke:rgba(127,127,127,.4)!important}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.ct-label{font-size:.75rem;line-height:1}.ct-line{fill:none}.ct-chart-line .ct-label{display:block;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex}.ct-chart-pie .ct-label{dominant-baseline:central}.ct-label.ct-horizontal.ct-end,.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-start;-webkit-align-items:flex-start;-ms-flex-align:flex-start;align-items:flex-start;-webkit-box-pack:flex-start;-webkit-justify-content:flex-start;-ms-flex-pack:flex-start;justify-content:flex-start;text-align:left;text-anchor:start}.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-end;-webkit-align-items:flex-end;-ms-flex-align:flex-end;align-items:flex-end}.ct-grid{stroke-width:1px;stroke-dasharray:2px}.ct-point{stroke-linecap:round}.ct-line{}.ct-area{stroke:none;fill-opacity:.1}.ct-legend{margin-top:1em}.ct-series-a .ct-line,.ct-series-a .ct-point{background-color:#87ceeb;stroke:#87ceeb}.ct-series-a .ct-area,.ct-series-a .ct-slice-pie{fill:#87ceeb}.ct-series-b .ct-line,.ct-series-b .ct-point{background-color:#32cd32;stroke:#32cd32}.ct-series-b .ct-area,.ct-series-b .ct-slice-pie{fill:#32cd32}.ct-series-c .ct-line,.ct-series-c .ct-point{background-color:#cd5c5c;stroke:#cd5c5c}.ct-series-c .ct-area,.ct-series-c .ct-slice-pie{fill:#cd5c5c}.ct-series-d .ct-line,.ct-series-d .ct-point{background-color:gold;stroke:gold}.ct-series-d .ct-area,.ct-series-d .ct-slice-pie{fill:gold}.ct-series-e .ct-line,.ct-series-e .ct-point{background-color:orange;stroke:orange}.ct-series-e .ct-area,.ct-series-e .ct-slice-pie{fill:orange}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .code,code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code{margin:0 4px -3px}code{display:inline-block}.ct-chart{display:flex;margin-left:-12px}.ct-chart-pie .ct-label{fill:rgba(255,255,255,.8)!important;color:rgba(255,255,255,.8)!important}.ct-line,.ct-point{stroke-width:2px!important;stroke:#58a6ff!important}.ct-point{stroke:#106cbc!important}.ct-area{fill:#58a6ff!important}.ct-label{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important}.ct-label.ct-horizontal{text-anchor:middle!important}.ct-grid{stroke:rgba(127,127,127,.4)!important}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.ct-label{font-size:.75rem;line-height:1}.ct-line{fill:none}.ct-chart-line .ct-label{display:block;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex}.ct-chart-pie .ct-label{dominant-baseline:central}.ct-label.ct-horizontal.ct-end,.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-start;-webkit-align-items:flex-start;-ms-flex-align:flex-start;align-items:flex-start;-webkit-box-pack:flex-start;-webkit-justify-content:flex-start;-ms-flex-pack:flex-start;justify-content:flex-start;text-align:left;text-anchor:start}.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-end;-webkit-align-items:flex-end;-ms-flex-align:flex-end;align-items:flex-end}.ct-grid{stroke-width:1px;stroke-dasharray:2px}.ct-point{stroke-linecap:round}.ct-line{}.ct-area{stroke:none;fill-opacity:.1}.ct-legend{margin-top:1em}.ct-series-a .ct-line,.ct-series-a .ct-point{background-color:#87ceeb;stroke:#87ceeb}.ct-series-a .ct-area,.ct-series-a .ct-slice-pie{fill:#87ceeb}.ct-series-b .ct-line,.ct-series-b .ct-point{background-color:#32cd32;stroke:#32cd32}.ct-series-b .ct-area,.ct-series-b .ct-slice-pie{fill:#32cd32}.ct-series-c .ct-line,.ct-series-c .ct-point{background-color:#cd5c5c;stroke:#cd5c5c}.ct-series-c .ct-area,.ct-series-c .ct-slice-pie{fill:#cd5c5c}.ct-series-d .ct-line,.ct-series-d .ct-point{background-color:gold;stroke:gold}.ct-series-d .ct-area,.ct-series-d .ct-slice-pie{fill:gold}.ct-series-e .ct-line,.ct-series-e .ct-point{background-color:orange;stroke:orange}.ct-series-e .ct-area,.ct-series-e .ct-slice-pie{fill:orange}.ct-series-f .ct-line,.ct-series-f .ct-point{background-color:#cd5c5c;stroke:#cd5c5c}.ct-series-f .ct-area,.ct-series-f .ct-slice-pie{fill:#cd5c5c}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.3084145007249" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="388.3084145007249" y="0" width="68.111002180625" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="456.4194166813499" y="0" width="1.8933760846832846" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.3127927660332" y="0" width="1.0426926839091237" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.3554854499423" y="0" width="0.25276137777476104" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.60824682771704" y="0" width="0.2366912700625345" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.8449380977796" y="0" width="0.1096557589529396" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="459.9545938567325" y="0" width="0.04540614326743193" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="396.8271611358054" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="396.8271611358054" y="0" width="59.903418965373056" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="456.7305801011784" y="0" width="1.6539408881480457" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.38452098932646" y="0" width="0.9508326521341233" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.3353536414606" y="0" width="0.219161896481254" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.5545155379418" y="0" width="0.20522798255074817" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.7597435204926" y="0" width="0.1603134872157908" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="459.92005700770835" y="0" width="0.07994299229160767" height="8" fill="#878787"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -69,31 +69,32 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Hack
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#1d365d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Less
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Hack
                     </div>
                 </div>
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 14.9mb of code in 8557 edited files across 134 commits over last 14 days</small>
+                <small>estimation from 17.9mb of code in 10540 edited files across 168 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="442.08371323205694" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="442.08371323205694" y="0" width="9.175307558768283" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="451.2590207908252" y="0" width="4.184598756855013" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.4436195476802" y="0" width="3.4581471863946915" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="458.9017667340749" y="0" width="1.0982332659250749" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="441.45219277691274" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="441.45219277691274" y="0" width="7.639592435259793" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="449.0917852121725" y="0" width="5.943442833602926" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="455.03522804577545" y="0" width="3.5510937429137255" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.5863217886892" y="0" width="0.9964035737501701" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.58272536243936" y="0" width="0.4172746375606585" height="8" fill="#1d365d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -110,21 +111,27 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        JavaScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         HTML
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        JavaScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#1d365d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Less
                     </div>
                 </div>
             </section>
@@ -134,14 +141,14 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 48 commits)</small>
+                    <small class="h-details">(computed from last 65 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
                         <li>Has approximately 31.5 characters per line of code written</li>
-                        <li>Mostly pushes code around 17:00</li>
-                        <li>Mostly active on Tuesday</li>
+                        <li>Mostly pushes code around 16:00</li>
+                        <li>Mostly active on Sunday</li>
                     </ul>
                 </div>
             </section>
@@ -154,39 +161,40 @@
                                 <!-- (optimized css) -->
                                 <g class="ct-grids">
                                     <line y1="125" y2="125" x1="30" x2="465" class="ct-grid ct-vertical"/>
-                                    <line y1="88.33333333333334" y2="88.33333333333334" x1="30" x2="465" class="ct-grid ct-vertical"/>
-                                    <line y1="51.66666666666667" y2="51.66666666666667" x1="30" x2="465" class="ct-grid ct-vertical"/>
+                                    <line y1="97.5" y2="97.5" x1="30" x2="465" class="ct-grid ct-vertical"/>
+                                    <line y1="70" y2="70" x1="30" x2="465" class="ct-grid ct-vertical"/>
+                                    <line y1="42.5" y2="42.5" x1="30" x2="465" class="ct-grid ct-vertical"/>
                                     <line y1="15" y2="15" x1="30" x2="465" class="ct-grid ct-vertical"/>
                                 </g>
                                 <g>
                                     <g class="ct-series ct-series-a">
-                                        <path d="M30,125L30,125C36.304,112.778,42.609,100.556,48.913,88.333C55.217,76.111,61.522,51.667,67.826,51.667C74.13,51.667,80.435,106.667,86.739,106.667C93.043,106.667,99.348,88.333,105.652,88.333C111.957,88.333,118.261,88.333,124.565,88.333C130.87,88.333,137.174,88.333,143.478,88.333C149.783,88.333,156.087,125,162.391,125C168.696,125,175,88.333,181.304,88.333C187.609,88.333,193.913,88.333,200.217,88.333C206.522,88.333,212.826,106.667,219.13,106.667C225.435,106.667,231.739,106.667,238.043,106.667C244.348,106.667,250.652,51.667,256.957,51.667C263.261,51.667,269.565,97.5,275.87,106.667C282.174,115.833,288.478,125,294.783,125C301.087,125,307.391,88.333,313.696,88.333C320,88.333,326.304,88.333,332.609,88.333C338.913,88.333,345.217,15,351.522,15C357.826,15,364.13,88.333,370.435,88.333C376.739,88.333,383.043,78.148,389.348,70C395.652,61.852,401.957,33.333,408.261,33.333C414.565,33.333,420.87,79.167,427.174,88.333C433.478,97.5,439.783,106.667,446.087,106.667C452.391,106.667,458.696,106.667,465,106.667L465,125Z" class="ct-area"/>
-                                        <path d="M30,125C36.304,112.778,42.609,100.556,48.913,88.333C55.217,76.111,61.522,51.667,67.826,51.667C74.13,51.667,80.435,106.667,86.739,106.667C93.043,106.667,99.348,88.333,105.652,88.333C111.957,88.333,118.261,88.333,124.565,88.333C130.87,88.333,137.174,88.333,143.478,88.333C149.783,88.333,156.087,125,162.391,125C168.696,125,175,88.333,181.304,88.333C187.609,88.333,193.913,88.333,200.217,88.333C206.522,88.333,212.826,106.667,219.13,106.667C225.435,106.667,231.739,106.667,238.043,106.667C244.348,106.667,250.652,51.667,256.957,51.667C263.261,51.667,269.565,97.5,275.87,106.667C282.174,115.833,288.478,125,294.783,125C301.087,125,307.391,88.333,313.696,88.333C320,88.333,326.304,88.333,332.609,88.333C338.913,88.333,345.217,15,351.522,15C357.826,15,364.13,88.333,370.435,88.333C376.739,88.333,383.043,78.148,389.348,70C395.652,61.852,401.957,33.333,408.261,33.333C414.565,33.333,420.87,79.167,427.174,88.333C433.478,97.5,439.783,106.667,446.087,106.667C452.391,106.667,458.696,106.667,465,106.667" class="ct-line"/>
+                                        <path d="M30,125L30,125C36.304,117.667,42.609,110.333,48.913,103C55.217,95.667,61.522,81,67.826,81C74.13,81,80.435,114,86.739,114C93.043,114,99.348,103,105.652,103C111.957,103,118.261,103,124.565,103C130.87,103,137.174,110.333,143.478,114C149.783,117.667,156.087,125,162.391,125C168.696,125,175,103,181.304,103C187.609,103,193.913,103,200.217,103C206.522,103,212.826,103,219.13,103C225.435,103,231.739,114,238.043,114C244.348,114,250.652,70,256.957,70C263.261,70,269.565,94.2,275.87,103C282.174,111.8,288.478,125,294.783,125C301.087,125,307.391,114.733,313.696,103C320,91.267,326.304,15,332.609,15C338.913,15,345.217,59,351.522,59C357.826,59,364.13,37,370.435,37C376.739,37,383.043,92,389.348,92C395.652,92,401.957,81,408.261,81C414.565,81,420.87,103,427.174,103C433.478,103,439.783,92,446.087,92C452.391,92,458.696,106.667,465,114L465,125Z" class="ct-area"/>
+                                        <path d="M30,125C36.304,117.667,42.609,110.333,48.913,103C55.217,95.667,61.522,81,67.826,81C74.13,81,80.435,114,86.739,114C93.043,114,99.348,103,105.652,103C111.957,103,118.261,103,124.565,103C130.87,103,137.174,110.333,143.478,114C149.783,117.667,156.087,125,162.391,125C168.696,125,175,103,181.304,103C187.609,103,193.913,103,200.217,103C206.522,103,212.826,103,219.13,103C225.435,103,231.739,114,238.043,114C244.348,114,250.652,70,256.957,70C263.261,70,269.565,94.2,275.87,103C282.174,111.8,288.478,125,294.783,125C301.087,125,307.391,114.733,313.696,103C320,91.267,326.304,15,332.609,15C338.913,15,345.217,59,351.522,59C357.826,59,364.13,37,370.435,37C376.739,37,383.043,92,389.348,92C395.652,92,401.957,81,408.261,81C414.565,81,420.87,103,427.174,103C433.478,103,439.783,92,446.087,92C452.391,92,458.696,106.667,465,114" class="ct-line"/>
                                         <line x1="30" y1="125" x2="30.01" y2="125" class="ct-point" ct:value="0"/>
-                                        <line x1="48.913043478260875" y1="88.33333333333334" x2="48.92304347826087" y2="88.33333333333334" class="ct-point" ct:value="2"/>
-                                        <line x1="67.82608695652175" y1="51.66666666666667" x2="67.83608695652175" y2="51.66666666666667" class="ct-point" ct:value="4"/>
-                                        <line x1="86.73913043478261" y1="106.66666666666667" x2="86.74913043478261" y2="106.66666666666667" class="ct-point" ct:value="1"/>
-                                        <line x1="105.65217391304348" y1="88.33333333333334" x2="105.66217391304349" y2="88.33333333333334" class="ct-point" ct:value="2"/>
-                                        <line x1="124.56521739130436" y1="88.33333333333334" x2="124.57521739130436" y2="88.33333333333334" class="ct-point" ct:value="2"/>
-                                        <line x1="143.47826086956522" y1="88.33333333333334" x2="143.4882608695652" y2="88.33333333333334" class="ct-point" ct:value="2"/>
+                                        <line x1="48.913043478260875" y1="103" x2="48.92304347826087" y2="103" class="ct-point" ct:value="2"/>
+                                        <line x1="67.82608695652175" y1="81" x2="67.83608695652175" y2="81" class="ct-point" ct:value="4"/>
+                                        <line x1="86.73913043478261" y1="114" x2="86.74913043478261" y2="114" class="ct-point" ct:value="1"/>
+                                        <line x1="105.65217391304348" y1="103" x2="105.66217391304349" y2="103" class="ct-point" ct:value="2"/>
+                                        <line x1="124.56521739130436" y1="103" x2="124.57521739130436" y2="103" class="ct-point" ct:value="2"/>
+                                        <line x1="143.47826086956522" y1="114" x2="143.4882608695652" y2="114" class="ct-point" ct:value="1"/>
                                         <line x1="162.3913043478261" y1="125" x2="162.40130434782608" y2="125" class="ct-point" ct:value="0"/>
-                                        <line x1="181.30434782608697" y1="88.33333333333334" x2="181.31434782608696" y2="88.33333333333334" class="ct-point" ct:value="2"/>
-                                        <line x1="200.21739130434784" y1="88.33333333333334" x2="200.22739130434783" y2="88.33333333333334" class="ct-point" ct:value="2"/>
-                                        <line x1="219.13043478260872" y1="106.66666666666667" x2="219.1404347826087" y2="106.66666666666667" class="ct-point" ct:value="1"/>
-                                        <line x1="238.0434782608696" y1="106.66666666666667" x2="238.05347826086958" y2="106.66666666666667" class="ct-point" ct:value="1"/>
-                                        <line x1="256.95652173913044" y1="51.66666666666667" x2="256.9665217391304" y2="51.66666666666667" class="ct-point" ct:value="4"/>
-                                        <line x1="275.8695652173913" y1="106.66666666666667" x2="275.8795652173913" y2="106.66666666666667" class="ct-point" ct:value="1"/>
+                                        <line x1="181.30434782608697" y1="103" x2="181.31434782608696" y2="103" class="ct-point" ct:value="2"/>
+                                        <line x1="200.21739130434784" y1="103" x2="200.22739130434783" y2="103" class="ct-point" ct:value="2"/>
+                                        <line x1="219.13043478260872" y1="103" x2="219.1404347826087" y2="103" class="ct-point" ct:value="2"/>
+                                        <line x1="238.0434782608696" y1="114" x2="238.05347826086958" y2="114" class="ct-point" ct:value="1"/>
+                                        <line x1="256.95652173913044" y1="70" x2="256.9665217391304" y2="70" class="ct-point" ct:value="5"/>
+                                        <line x1="275.8695652173913" y1="103" x2="275.8795652173913" y2="103" class="ct-point" ct:value="2"/>
                                         <line x1="294.7826086956522" y1="125" x2="294.7926086956522" y2="125" class="ct-point" ct:value="0"/>
-                                        <line x1="313.69565217391306" y1="88.33333333333334" x2="313.70565217391305" y2="88.33333333333334" class="ct-point" ct:value="2"/>
-                                        <line x1="332.60869565217394" y1="88.33333333333334" x2="332.6186956521739" y2="88.33333333333334" class="ct-point" ct:value="2"/>
-                                        <line x1="351.5217391304348" y1="15" x2="351.5317391304348" y2="15" class="ct-point" ct:value="6"/>
-                                        <line x1="370.4347826086957" y1="88.33333333333334" x2="370.4447826086957" y2="88.33333333333334" class="ct-point" ct:value="2"/>
-                                        <line x1="389.34782608695656" y1="70" x2="389.35782608695655" y2="70" class="ct-point" ct:value="3"/>
-                                        <line x1="408.26086956521743" y1="33.33333333333333" x2="408.2708695652174" y2="33.33333333333333" class="ct-point" ct:value="5"/>
-                                        <line x1="427.1739130434783" y1="88.33333333333334" x2="427.1839130434783" y2="88.33333333333334" class="ct-point" ct:value="2"/>
-                                        <line x1="446.0869565217392" y1="106.66666666666667" x2="446.0969565217392" y2="106.66666666666667" class="ct-point" ct:value="1"/>
-                                        <line x1="465.00000000000006" y1="106.66666666666667" x2="465.01000000000005" y2="106.66666666666667" class="ct-point" ct:value="1"/>
-                                    <text x="48.913043478260875" y="83.33333333333334" class="ct-post">2</text><text x="67.82608695652175" y="46.66666666666667" class="ct-post">4</text><text x="86.73913043478261" y="101.66666666666667" class="ct-post">1</text><text x="105.65217391304348" y="83.33333333333334" class="ct-post">2</text><text x="124.56521739130436" y="83.33333333333334" class="ct-post">2</text><text x="143.47826086956522" y="83.33333333333334" class="ct-post">2</text><text x="181.30434782608697" y="83.33333333333334" class="ct-post">2</text><text x="200.21739130434784" y="83.33333333333334" class="ct-post">2</text><text x="219.13043478260872" y="101.66666666666667" class="ct-post">1</text><text x="238.0434782608696" y="101.66666666666667" class="ct-post">1</text><text x="256.95652173913044" y="46.66666666666667" class="ct-post">4</text><text x="275.8695652173913" y="101.66666666666667" class="ct-post">1</text><text x="313.69565217391306" y="83.33333333333334" class="ct-post">2</text><text x="332.60869565217394" y="83.33333333333334" class="ct-post">2</text><text x="351.5217391304348" y="10" class="ct-post">6</text><text x="370.4347826086957" y="83.33333333333334" class="ct-post">2</text><text x="389.34782608695656" y="65" class="ct-post">3</text><text x="408.26086956521743" y="28.33333333333333" class="ct-post">5</text><text x="427.1739130434783" y="83.33333333333334" class="ct-post">2</text><text x="446.0869565217392" y="101.66666666666667" class="ct-post">1</text><text x="465.00000000000006" y="101.66666666666667" class="ct-post">1</text></g>
+                                        <line x1="313.69565217391306" y1="103" x2="313.70565217391305" y2="103" class="ct-point" ct:value="2"/>
+                                        <line x1="332.60869565217394" y1="15" x2="332.6186956521739" y2="15" class="ct-point" ct:value="10"/>
+                                        <line x1="351.5217391304348" y1="59" x2="351.5317391304348" y2="59" class="ct-point" ct:value="6"/>
+                                        <line x1="370.4347826086957" y1="37" x2="370.4447826086957" y2="37" class="ct-point" ct:value="8"/>
+                                        <line x1="389.34782608695656" y1="92" x2="389.35782608695655" y2="92" class="ct-point" ct:value="3"/>
+                                        <line x1="408.26086956521743" y1="81" x2="408.2708695652174" y2="81" class="ct-point" ct:value="4"/>
+                                        <line x1="427.1739130434783" y1="103" x2="427.1839130434783" y2="103" class="ct-point" ct:value="2"/>
+                                        <line x1="446.0869565217392" y1="92" x2="446.0969565217392" y2="92" class="ct-point" ct:value="3"/>
+                                        <line x1="465.00000000000006" y1="114" x2="465.01000000000005" y2="114" class="ct-point" ct:value="1"/>
+                                    <text x="48.913043478260875" y="98" class="ct-post">2</text><text x="67.82608695652175" y="76" class="ct-post">4</text><text x="86.73913043478261" y="109" class="ct-post">1</text><text x="105.65217391304348" y="98" class="ct-post">2</text><text x="124.56521739130436" y="98" class="ct-post">2</text><text x="143.47826086956522" y="109" class="ct-post">1</text><text x="181.30434782608697" y="98" class="ct-post">2</text><text x="200.21739130434784" y="98" class="ct-post">2</text><text x="219.13043478260872" y="98" class="ct-post">2</text><text x="238.0434782608696" y="109" class="ct-post">1</text><text x="256.95652173913044" y="65" class="ct-post">5</text><text x="275.8695652173913" y="98" class="ct-post">2</text><text x="313.69565217391306" y="98" class="ct-post">2</text><text x="332.60869565217394" y="10" class="ct-post">10</text><text x="351.5217391304348" y="54" class="ct-post">6</text><text x="370.4347826086957" y="32" class="ct-post">8</text><text x="389.34782608695656" y="87" class="ct-post">3</text><text x="408.26086956521743" y="76" class="ct-post">4</text><text x="427.1739130434783" y="98" class="ct-post">2</text><text x="446.0869565217392" y="87" class="ct-post">3</text><text x="465.00000000000006" y="109" class="ct-post">1</text></g>
                                 </g>
                                 <g class="ct-labels">
                                     <text x="30" y="145" width="18.91304347826087" height="20" class="ct-label ct-horizontal ct-end">0</text>
@@ -235,16 +243,16 @@
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,51.667C39.5,61.444,49,81,58.5,81C68,81,77.5,44.333,87,44.333C96.5,44.333,106,73.667,115.5,73.667C125,73.667,134.5,44.333,144,44.333C153.5,44.333,163,125,172.5,125C182,125,191.5,110.333,201,103L201,125Z" class="ct-area"/>
-                                            <path d="M30,51.667C39.5,61.444,49,81,58.5,81C68,81,77.5,44.333,87,44.333C96.5,44.333,106,73.667,115.5,73.667C125,73.667,134.5,44.333,144,44.333C153.5,44.333,163,125,172.5,125C182,125,191.5,110.333,201,103" class="ct-line"/>
-                                            <line x1="30" y1="51.66666666666667" x2="30.01" y2="51.66666666666667" class="ct-point" ct:value="10"/>
-                                            <line x1="58.5" y1="81" x2="58.51" y2="81" class="ct-point" ct:value="6"/>
-                                            <line x1="87" y1="44.33333333333333" x2="87.01" y2="44.33333333333333" class="ct-point" ct:value="11"/>
-                                            <line x1="115.5" y1="73.66666666666666" x2="115.51" y2="73.66666666666666" class="ct-point" ct:value="7"/>
-                                            <line x1="144" y1="44.33333333333333" x2="144.01" y2="44.33333333333333" class="ct-point" ct:value="11"/>
+                                            <path d="M30,125L30,26C39.5,51.667,49,103,58.5,103C68,103,77.5,84.667,87,84.667C96.5,84.667,106,99.333,115.5,99.333C125,99.333,134.5,84.667,144,84.667C153.5,84.667,163,125,172.5,125C182,125,191.5,117.667,201,114L201,125Z" class="ct-area"/>
+                                            <path d="M30,26C39.5,51.667,49,103,58.5,103C68,103,77.5,84.667,87,84.667C96.5,84.667,106,99.333,115.5,99.333C125,99.333,134.5,84.667,144,84.667C153.5,84.667,163,125,172.5,125C182,125,191.5,117.667,201,114" class="ct-line"/>
+                                            <line x1="30" y1="26" x2="30.01" y2="26" class="ct-point" ct:value="27"/>
+                                            <line x1="58.5" y1="103" x2="58.51" y2="103" class="ct-point" ct:value="6"/>
+                                            <line x1="87" y1="84.66666666666666" x2="87.01" y2="84.66666666666666" class="ct-point" ct:value="11"/>
+                                            <line x1="115.5" y1="99.33333333333333" x2="115.51" y2="99.33333333333333" class="ct-point" ct:value="7"/>
+                                            <line x1="144" y1="84.66666666666666" x2="144.01" y2="84.66666666666666" class="ct-point" ct:value="11"/>
                                             <line x1="172.5" y1="125" x2="172.51" y2="125" class="ct-point" ct:value="0"/>
-                                            <line x1="201" y1="103" x2="201.01" y2="103" class="ct-point" ct:value="3"/>
-                                        <text x="30" y="46.66666666666667" class="ct-post">10</text><text x="58.5" y="76" class="ct-post">6</text><text x="87" y="39.33333333333333" class="ct-post">11</text><text x="115.5" y="68.66666666666666" class="ct-post">7</text><text x="144" y="39.33333333333333" class="ct-post">11</text><text x="201" y="98" class="ct-post">3</text></g>
+                                            <line x1="201" y1="114" x2="201.01" y2="114" class="ct-point" ct:value="3"/>
+                                        <text x="30" y="21" class="ct-post">27</text><text x="58.5" y="98" class="ct-post">6</text><text x="87" y="79.66666666666666" class="ct-post">11</text><text x="115.5" y="94.33333333333333" class="ct-post">7</text><text x="144" y="79.66666666666666" class="ct-post">11</text><text x="201" y="109" class="ct-post">3</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -267,26 +275,30 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M117.375,5.588A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.014555620508410354"/>
+                                        <path d="M89.202,7.394A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.7087361216723246"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M99.067,5.534A75,75,0,1,0,117.115,5.556L108,80Z" class="ct-slice-pie" ct:value="0.7013173914377814"/>
+                                        <path d="M95.151,6.109A75,75,0,0,0,88.948,7.46L108,80Z" class="ct-slice-pie" ct:value="0.009541990485473942"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M102.593,5.195A75,75,0,0,0,98.807,5.566L108,80Z" class="ct-slice-pie" ct:value="0.005485971754623701"/>
+                                        <path d="M102.918,5.172A75,75,0,0,0,94.894,6.154L108,80Z" class="ct-slice-pie" ct:value="0.012265099601531354"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M103.715,5.122A75,75,0,0,0,102.332,5.215L108,80Z" class="ct-slice-pie" ct:value="0.001742226791432312"/>
+                                        <path d="M103.937,5.11A75,75,0,0,0,102.657,5.191L108,80Z" class="ct-slice-pie" ct:value="0.001599691237318217"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M108,5A75,75,0,0,0,103.454,5.138L108,80Z" class="ct-slice-pie" ct:value="0.0066384076059161495"/>
+                                        <path d="M107.573,5.001A75,75,0,0,0,103.675,5.125L108,80Z" class="ct-slice-pie" ct:value="0.005701157335329826"/>
+                                    </g>
+                                    <g class="ct-series ct-series-f">
+                                        <path d="M108,5A75,75,0,0,0,107.311,5.003L108,80Z" class="ct-slice-pie" ct:value="0.0006699198987701407"/>
                                     </g>
                                     <g>
-                                        <text dx="110.3483329936087" dy="42.57360113300868" text-anchor="middle" class="ct-label">Hack</text>
-                                        <text dx="107.88876515613794" dy="117.49983502376392" text-anchor="middle" class="ct-label">PHP</text>
-                                        <text dx="104.41387691438877" dy="42.671864214578754" text-anchor="middle" class="ct-label">HTML</text>
-                                        <text dx="105.57700344675423" dy="42.57836070262342" text-anchor="middle" class="ct-label">CSS</text>
-                                        <text dx="106.92843625805972" dy="42.5153131112589" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="112.73754998918348" dy="117.19953790169964" text-anchor="middle" class="ct-label">PHP</text>
+                                        <text dx="100.08173009495381" dy="43.34551866809681" text-anchor="middle" class="ct-label">HTML</text>
+                                        <text dx="103.51119126579862" dy="42.76962804177539" text-anchor="middle" class="ct-label">Hack</text>
+                                        <text dx="105.71356944839822" dy="42.569768430682906" text-anchor="middle" class="ct-label">CSS</text>
+                                        <text dx="106.87696924675524" dy="42.51681974635468" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="107.89313273139926" dy="42.500152275150484" text-anchor="middle" class="ct-label">Less</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
