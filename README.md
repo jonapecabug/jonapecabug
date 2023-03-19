@@ -5,5 +5,7 @@
 [<img align="left" width="390" src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/main/medias.svg">](#)
 [<img align="right" width="390" src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/main/wakatime.svg">](https://wakatime.com/@jonapecabug)
 [<img align="right" width="390" src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/main/anilist.svg">](https://anilist.co/user/jonapecabug)
+[<img align="left" width="390" src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/main/metrics.plugin.16personalities.svg">](https://www.16personalities.com/profile/reports/personality-traits)
+[<img align="left" width="390" src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/main/metrics.plugin.music.playlist.svg">](#)
 <img align="right" width="90" src="https://media.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" >
 
