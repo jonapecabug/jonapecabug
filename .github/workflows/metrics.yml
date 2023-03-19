@@ -91,16 +91,5 @@ jobs:
           base: ""
           plugin_music: yes
           plugin_music_provider: apple
-          plugin_music_playlist: https://embed.music.apple.com/fr/playlist/usr-share/pl.u-V9D7m8Etjmjd0D
+          plugin_music_playlist: https://embed.music.apple.com/ph/playlist/top-100-japan/pl.043a2c9876114d95a4659988497567be
           plugin_music_limit: 5
-          
-      - name: MBTI Personality profile
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.16personalities.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_16personalities: yes
-          plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
-          plugin_16personalities_sections: personality, traits
-          plugin_16personalities_scores: no
