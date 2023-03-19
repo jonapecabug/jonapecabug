@@ -34,7 +34,7 @@
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                 <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
                                 <text x="60" y="60" dominant-baseline="central">I</text>
-                            </svg>
+                             </svg>
                             <div class="explanation">
                                 <span class="title"><span class="subtitle">Introverted</span> mind</span>
                                 <span class="text"> Likely prefers fewer, yet deep and meaningful, social interactions and feels drawn to calmer environments.</span>
