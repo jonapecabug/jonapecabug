@@ -2,7 +2,7 @@
 **`🎨 Design`** | **`💻 Develop`** | **`🔭 Research`** | **`🧠 Learn`** 
 <div style="display: flex;">
   <div style="flex: 50%; padding: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jonapecabug&count_private=true&show_icons=true&theme=radical" align="top" alt="Jonape's GitHub stats" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=jonapecabug&count_private=true&show_icons=true&theme=aura" align="top" alt="Jonape's GitHub stats" width="400"/>
     <img src="https://raw.githubusercontent.com/jonapecabug/jonapecabug/main/metrics.plugin.music.playlist.svg" align="top" width="400" />
   </div>
 </div>
