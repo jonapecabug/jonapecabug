@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="262" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="57" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.tracklist{display:flex;flex-direction:column;align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -11,52 +11,14 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"/>
                     </svg>
-                    Suggested tracks
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="field">
+                        <div class="field error">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M2.002 2.725a.75.75 0 01.797-.699C8.79 2.42 13.58 7.21 13.974 13.201a.75.75 0 11-1.497.098 10.502 10.502 0 00-9.776-9.776.75.75 0 01-.7-.798zM2 13a1 1 0 112 0 1 1 0 01-2 0zm.84-5.95a.75.75 0 00-.179 1.489c2.509.3 4.5 2.291 4.8 4.8a.75.75 0 101.49-.178A7.003 7.003 0 002.838 7.05z"/>
+                                <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
                             </svg>
-                            From Apple Music
-                        </div>
-                        <div class="tracklist">
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAECBQQGB//EACYQAAICAQMDAwUAAAAAAAAAAAECABEDBAUhBjFBEiJRE0JhcbL/xAAaAQABBQEAAAAAAAAAAAAAAAABAAIDBQYE/8QAHhEAAgMAAgMBAAAAAAAAAAAAAAIBAwQRUSExMkH/2gAMAwEAAhEDEQA/APnNmWviVNXLcVNgUsSLlblqKn3AjzRkcWIvfkMz+A94kmIRpWdW2MMeuwZXRciY3DsjdiAe05DdyysVZWFipDestXMR0S5mVbVZvXJqdTscnUO4NftOZingej7a/FVMo95q71iZ8Oj1o5XKn0mPw6UP59JmT5jMbw9KzHQ7XW1dzK3ZaJBidMHOQTzBPERFwA9FtGTHrtq1G26h1xNlK5MDvwozLwAT8MCR+6mfu+059rOnOdldc6FlZb8GmBBFggxEoMt7V65zr8+TRb6EfKulvriDOJiIl/EGdP/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">LADY</div>
-                                    <div class="artist">Kenshi Yonezu</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwQC/8QALRAAAgEDAwIEBAcAAAAAAAAAAQIDAAQRBRIhMUEGE1FhFCIycSNSgZHR4fH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUCAf/EAB4RAAMBAAICAwAAAAAAAAAAAAABAhEDIQQiEjFB/9oADAMBAAIRAxEAPwDHvF998VHCsAJjb6vv2FSmxt+Cp46jFXdnaPIyxvGuW6bq865pMyj5o9rDnhep7c96xy4u9AxFX3gjs7NI542MYKiUNnPbbkU+srdZI/LuI38xBv2rkMPb9qX6SsUwWKYsVPBwhIHaqJdJa2txMzi4hQY3DOV54z7UljulKKvElEO86O9NctorSKIRFdihcAYopFdyxYPFFVV6pIlXzU3p0apMtr4ghCt+GY16H3NVc1uLrT1JO8AYyRg/7WWwyyTW0dyzlmRipJPOO1aR4c1bECblDxSKOPQ9DSHK9ej/AIdJ7LJnTrFjf5T5JN5Awe/oR6farnT7Tdp04uCUMqsuxjnBHek9rbp8ddRRuC6zGdQeMhun8U+e+RkiEiZDAoc9VYGuSkn8g8apcsmb3w9Ku5mXGO1FONa16KHDTMAHO3Oe9FUlUNfZNvjlMyTRrhIy8UnKNg/rTzR75rUSW8jYX60OaKKn0Z4baxoax6jK13b3tvk7VKyL+YZru1PUvOFrcWxDRPkMMc7vf3xRRQ/zB1W29Jzxfe+ZBboOjMWP3A/uiiiiQ+hHyH7s/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Namaeha Kataomoi</div>
-                                    <div class="artist">indigo la End</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAQFAQMHBv/EADcQAAECBAMDCQUJAAAAAAAAAAECAwAEBREGEiETMYEUIjI2QVFSc8EHFWFxoSMkVGJykZSi0v/EABoBAAICAwAAAAAAAAAAAAAAAAAFBAYBAwf/xAAjEQABAwMEAgMAAAAAAAAAAAABAAIDERIhBAUxcRNRFDIz/9oADAMBAAIRAxEAPwD22JpaVlq/PMS8hT22kOWSgSbVgLD8sTMrX4OQ/htf5ivi/rPUvN9BEiLBFGywVA4VQnmk8jgHHlaJuYlpZvMqTkSo9FPI2tf6xJTVV250hSyR0rSbf05sK4gnCahspNTDziGrqRtBmBvYDfv1+ekSltzap1LEzNS7ZWmyEMEOKUrfYAG+g7d0JNbNMJjHGKALoWxbft/whPqiXOPNScLo2ClyFWrMk25I05xtTuRxvkjRG79MEKeyukGl1+SLiyp554FQ8IANhppfWCNswcA24UNMqvgxeWQQGrK4VjF/Wepeb6CKdCoSF06TqC2hMLdcWSha7JQhIPOtuJuO021hauyTlRxvNyjGjjr+W/hFhc8BrDON5xuXcl6RT1KRLSzeVwJUQFk62I7e/wCZia8l7WRNOSMpZp2tifJqZBUA47XPK1hml1Spvzj+3Wpaib58tx2XsN9uMMUuiU6lkqkZVDbh0LnSWeJ1ijf4iMXHeInAAAD0lj5pHk1JyrGEOs9N830MEGEOs9N830MEK9d9x0m+2fke10adxNR9qhcjXKAkkjOpybbvbML7j4c3G0Kt4gp5Dynq9horKDs/vCDz8iMpUb7s2fhlgghdUp5aFrmMQSXJ1iXrmFg/YZS5Moy3vrex7vrAcQyed4++8K5SPsxypOhuveb92z/ZXwggguKxa30maZiKkoecVPV3DpTYZNjMtgg5lb7nw5ON4IIIKlFoX//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Burning Friday Night</div>
-                                    <div class="artist">Lucky Kilimanjaro</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYCB//EACsQAAIBAwMEAwAABwEAAAAAAAECAwQFEQASIQYxQVETFCIjMlJhcYGhgv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDzG8QObVS09HRvK0zyyt8WRyu1VPHfG5uPbazdrE8lX/BKEojOxkT5FUAcnbg5PoYPOt/cKme12KxysUeiauapWcqQKedB+FzjPcAnGRxgedLOoGpHWkuq1lspY5qcxvFQyColabOWLIVUKCceQPRPbQZ/qGyVtmrI4ZpYqj5qdKtJKcllMTjKt2BGRzggY1TtVb9Oujll3PDykif1Iww3/Dn/ADqd71P9T6zCKWME/uVMkjxkZxwPYJA4BxqzZ+nK6sMdXU0dRFb/AOYyGMj5B6TjnPbI4HnQO6ijihqJIzCmVbHMYBx448ceNGu53eSokeTIkZizA+CdGgs0tVRzkrbbknyFdpgrSiCRMnsWJRhnnacHzg6S9Y0tsgoqKWl+stwmd/kWjbMWxcAE913bsj8HHB86krLRbaos6pLRyeoVDxn/AMkgr/o49DWnqeiXho4I3rbJUpHRHYsgly7ANJlSCCrYfbjOMjONB5dBNJTzJNCxSVDuVh4PvT2kk6mu0clTDXXGWJGCPNJWFVB7hdzMBnjtp9ceg5HvMkTXa0ws8dRPthRhGoicIAB3/Wcj+3fTO3dEXLp6uqjB1HZUXY6usys8VQAwCqykEYY87jjb7GgV2GG/tXR099M81pKu0k8hE6xBVJysgJ2txgDOCeCDo1xSX211Vsrqk2p1r4VRnpo6opEyZwzrkMwIJX8kkc5zxjRoJqWhqqurip6anlknlYIiKpyxPjWZv9L1FYdhvdFXUnzBvqtNlB+Ww2M8Hjx6IOjRoFnzXWWkevUyvAjfC8wyQmeQCfGf+6ryXSskIaSZ3bBXls8HuNGjQaDpOl+WnuEsqStBLD9XET7SSSrHnB4AX15GjRo0H//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Ditto</div>
-                                    <div class="artist">NewJeans</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAYHAgQFAQP/xAAwEAABAgUDAwEFCQAAAAAAAAABAgMABAURIQYSMQcTQSIjQlFhsRQVJjIzcYGRof/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EABsRAQEAAwADAAAAAAAAAAAAAAABAhESISIx/9oADAMBAAIRAxEAPwC50dVqKQkrkayjcgOZkiTYm3APPyjcPUejtoUqZl6mxZewbpRRvmwPpvYH5/zHuh6eG+8iZeE4A2lKS60m6cm/AiVGQlVXCpZgjwNggTdhXW0FqHWLSNPdU1NTUw26PcVLqB/0Rnp3qvQtQPTiKczPKRLbbuqbSEr3X/Lm/g8xpagpqftkwXVpcOAD2wmwzYRGpNltutzaWwgESUtcJAGdz3NvMWNvWq3LnncXJS6m1UpZt9ht0IWpSfUOLfGEcfQAvQWj8HnPrCGCN9KJl5th37z3rqL5W4tSEkIUNwttHu48XibVat0+mJ7s5NIbSMG+bZAzbjmORSpfa+XQy6hazdVha5/qPnrGgDUkk2xtcY2q3FSRlXBzjPEGXw2/Vca51Qy/rWSZk0vKaW4wS420NpCioEEk3tg5Ax5yY1qI8l3VlfCFAhLEsOeD7SO/qPp688qWflVPNJYII7fKbEG/GQSMiIhQZOapesNQS0wl1aksy3tCk+v9Q/t5jOp3IVnptdfT8fh9Jvw859YRj04KjppJUCD3nMEW8whglEIQiRCEIkQhCJP/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Koibitogokko</div>
-                                    <div class="artist">Macaroni Empitsu</div>
-                                </div>
-                            </div>
+                            Unexpected error
                         </div>
                     </section>
                 </div>
